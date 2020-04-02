@@ -117,7 +117,7 @@ author:
       url: mailto:ydj9805@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      #url: "https://devinlife.com"
+      url:  "https://devinlife.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -142,7 +142,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/YangDongJae"
+      url: "https://github.com/YangDongJae/YangDongJae.github.io"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
