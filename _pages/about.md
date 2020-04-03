@@ -1,13 +1,30 @@
 ---
-title: "이 블로그 설명서"
 permalink: /about/
 layout: single
+url: "https://YangDongJae.github.io"
 ---
+# About
 
-## devinlife.github.io 블로그
+![]({{ site.url }}/assets/images/About-Profile-img2.png    ){:.align-left}
+<br/>
+student of AI Software <br/>
+<br/>
+<br/>
+<br/>
+### 경력
 
-이 블로그는 GitHub Pages 블로그 서비스인 github.io를 같이 만들어보는 샘플 블로그이다.
+|   | 기간  | 담당업무 |
+| :---------:|:---------:|:---------:|
+| ![]({{ site.url }}/assets/images/AECF.png    )<br/> Asia Economic Community Forum | 2017.06.03 ~ 2017.12.31    |   |
+| ![]({{ site.url }}/assets/images/PRISM.png    )<br/>PRISM    |  2017.06.02 ~ 2017.10.31   |    |
+| ![]({{ site.url }}/assets/images/Vib.png    )<br/>Vib    | 2017.11.01 ~ 2018.04.30    |    |
 
-진짜 블로그인 <https://devinlife.com>을 방문해보자.
-이 곳에서 이 샘플 블로그를 같이 만들어보는 GitHub Pages 블로그 따라하기 시리즈의
-모든 글을 볼 수 있다.
+
+
+
+
+
+
+
+
+## What is this Blog?
