@@ -1,9 +1,19 @@
 # main links
 main:
+  - title: "자료구조"
+    url: https://YangDongJae.github.io/dataStructure
+  - title: "머신러닝"
+    url: https://YangDongJae.github.io/machineLearning
+  - title: "tags"
+    url: https://YangDongJae.github.io/tags
   - title: "categories"
     url: https://YangDongJae.github.io/categories
   - title: "About"
     url: https://YangDongJae.github.io/about/
+
+    
+    
+  
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

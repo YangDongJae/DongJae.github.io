@@ -1,8 +1,8 @@
 ---
- title: "윤동주 작품집"
- permalink: /categories/윤동주/
+ title: "자료구조"
+ permalink: /categories/dataStructure/
  layout: category
- author_profile: true
+ author_profile: false
  taxonomy: 윤동주
 ---
 
