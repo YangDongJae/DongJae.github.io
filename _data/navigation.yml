@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "자료구조"
-    url: https://YangDongJae.github.io/dataStructure
+    url: https://YangDongJae.github.io/categories/dataStructure
   - title: "머신러닝"
-    url: https://YangDongJae.github.io/machineLearning
+    url: https://YangDongJae.github.io/categories/machineLearning
   - title: "tags"
     url: https://YangDongJae.github.io/tags
   - title: "categories"
