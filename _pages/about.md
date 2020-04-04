@@ -3,7 +3,6 @@ permalink: /about/
 layout: single
 url: "https://YangDongJae.github.io"
 ---
-# About
 
 ![]({{ site.url }}/assets/images/About-Profile-img2.png    ){:.align-left}
 <br/>
