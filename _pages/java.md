@@ -1,6 +1,6 @@
 ---
 titl: "Java"
-permalink: /cateogires/java
+permalink: /categories/java/
 layout: category
 aouthor_profile: false
 taxonomy: Java
