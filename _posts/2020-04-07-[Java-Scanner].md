@@ -2,7 +2,7 @@
     title: "[java] 초심자도 이해하는 Scanner Class 를 사용한 입력방법"
 
     categories:
-        -Java
+        Java
     
     tags:
         - Java
