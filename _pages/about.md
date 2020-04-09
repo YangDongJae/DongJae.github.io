@@ -27,9 +27,10 @@ student of AI Software Engineering <br/>
 
 ### 대외활동 
 
-| 대외활동명 | 기간  | 내용 | 설명 |
-| :---------:|:---------:|:---------|:---------:|
-|![]({{ site.url }}/assets/images/AYC.png    )<br/>아시아<br/>청년연합서포터즈|2020.1.11 ~ 2020.04.11| ○[이슬람 종교 차별에 대한 <br/>  사회적 영상 기획 및 제작](https://www.youtube.com/watch?v=3uM8zKF3gJE)<br/> ○'20대들이 생각하는 취업과 창업'을 주제로 영상 기획 및 제작 <br/>○외국인 서포터즈 프로그램기획 |Asia Federation Youth 의 아시아 청년 연합 서포터즈에 참가하여, 창업, 문화교류, 취업 을 주제로 영상과 발표자료를 기획하고 제작하여 대중들 앞에서 발표.|
+| &nbsp;&nbsp;대&nbsp;&nbsp;외&nbsp;&nbsp;활&nbsp;&nbsp;동&nbsp;&nbsp;명 | 기간  |내용 | 설명 |
+| :---------:|:---------:|:-----------------------------:|:---------:|
+|![]({{ site.url }}/assets/images/AYC.png    )<br/>아시아 청년연합<br/>서포터즈|2020.1.11 ~ 2020.04.11| ○[이슬람 종교 차별에 대한 <br/>  사회적 영상 기획 및 제작](https://www.youtube.com/watch?v=3uM8zKF3gJE)<br/> ○'20대가 생각하는 취업과 창업'을 주제로 영상 기획 및 제작 <br/>○외국인 서포터즈 프로그램기획 |Asia Federation Youth 의 아시아 청년 연합 서포터즈에 참가하여, 창업, 문화교류, 취업 을 주제로 영상과 발표자료를 기획하고 제작하여 대중들 앞에서 발표.|
+|![]({{ site.url }}/assets/images/cool_Lion.png    )<br/>멋쟁이 사자처럼|2020.04.11 ~ |||
 
 
 
