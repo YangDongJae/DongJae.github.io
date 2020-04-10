@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "개발일기"
+    url: https://YangDongJae.github.io/categories/developLog
   - title: "자료구조"
     url: https://YangDongJae.github.io/categories/dataStructure
   - title: "머신러닝"

@@ -5,8 +5,8 @@
         Java
     
     tags:
-        - Java
-        - 객체지향
+         Java
+         객체지향
         
     last_modified_at: 2020-04-07
 ---
