@@ -3,9 +3,13 @@
 
     categories : 
         잡다한개발일기
+        
+    description : "Java 조건문 if / 다중 if else / switch 를 활용해서 계산기 만들기"
     
     tags:
         Java
+        연습
+        일기
         
     last_modified_at: 2020-04-10
 ---
@@ -154,7 +158,7 @@ String C = new String("동춘");
 ```
 이라고 하면 A,B,C가 갖는 내용은 모두 "동춘"이지만 **실질적으로 할당되는 주소값은 다름.** 아래 그림 참고.
 
-![]({{ site.url }}/assets/images/equlas.png    )
+![]({{ site.url }}/assets/images/Diary/My_Caculator/equlas.png    )
 
 같은 내용이지만 다른 주소값을 할당받은 이유는 "동춘" 라는 문자열에 대입한것이 아닌 new String ("동춘")을 통해 새로운 문자열을 선언했기 때문.
 

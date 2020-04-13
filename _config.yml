@@ -25,7 +25,7 @@ url                      : "https://YangDongJae.github.io"
 baseurl                  : # 서브 경로가 있는 경우 기재
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : #"/assets/images/bio-photo-keyboard.jpg"
-logo                     : # "/assets/images/"
+logo                     :  # "/assets/images/About/About-Profile-img2.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -89,7 +89,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/bio-photo-keyboard.jpg"
+og_image                 : #"/assets/images/bio-photo-keyboard.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Until I became <br/> the Elon Musk of Chungnam"
-  avatar           : "/assets/images/profile-img.png"
+  avatar           : "/assets/images/About/profile-img.png"
   bio              : "21살이고싶은 30살같은 23살 개발자"
   location         : "South Korea"
   email            :
