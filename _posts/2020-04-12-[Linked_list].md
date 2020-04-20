@@ -12,7 +12,7 @@
     tags:
         python
         자료구조
-        Linked_List
+        List
         
     last_modified_at: 2020-04-12
 ---
