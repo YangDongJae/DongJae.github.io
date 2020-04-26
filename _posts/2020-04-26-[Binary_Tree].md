@@ -238,3 +238,5 @@ def in_order(self, node):
         self.in_order(node.get_right_child())
         print(node.get_data(), end = " ")           
 ```
+### Level-order Traversal - 레벨 순회
+각 Level의 노드를 좌 -> 우 순서로 순차 방문한다.
