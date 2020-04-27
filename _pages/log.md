@@ -1,8 +1,8 @@
 ---
- title: "잡다한 개발 일기"
- permalink: /categories/developLog/
+ title: "엔지니어링 일기"
+ permalink: /categories/EngineerLog/
  layout: category
  author_profile: false
- taxonomy: 잡다한개발일기
+ taxonomy: 엔지니어링 일기
 ---
 
