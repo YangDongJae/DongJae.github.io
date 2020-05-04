@@ -4,7 +4,7 @@
     categories : 
         자료구조
     
-    description : "리스트 , 스택 , 큐 , 트리 , 이진트리 , 이진검색트리
+    description : "리스트 , 스택 , 큐 , 트리 , 이진트리 , 이진검색트리"
 
     toc : True
 
