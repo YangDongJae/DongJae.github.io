@@ -20,12 +20,11 @@
 # Binary Search Tree
 Binary search Tree 는 ordered binary Tree 혹은 sorted binary Tree라고 부르기도 합니다.<br/>
 
-Binary Tree는 Search 속도가 다른 자료구조에 비해 빠른편이다. 하지만 Binary Tree 는 자료를 입력할수도 삭제할수도 없습니다.
-<br/>
-하지만 Linked List 는 검색 속도가 느리지만, 데이터를 입력, 삭제할 수 있습니다.
+Binary Tree는 Search 속도가 다른 자료구조에 비해 빠른편이다.
 <br/>
 <br/>
-**Binary Search Tree** 는 Binary search(검색속도) 와 linked list(데이터 입력 ,삭제)의 장점을 결합한 자료구조 입니다.
+<br/>
+**Binary Search Tree** 는 Binary Tree(검색속도) 와 linked list(데이터 입력 ,삭제)의 장점을 결합한 자료구조 입니다.
 
 ## Binary Search Tree 의 속성
 Binary Search Tree는 아래와 같은 요소를 충족해야합니다. 즉 아래의 요소에 부합하지 않은 내용이 있다면 그것은 Binary Tree 가 아닙니다.

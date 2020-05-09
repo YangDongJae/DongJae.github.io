@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "엔지니어링"
-    url: https://YangDongJae.github.io/categories/developLog
+    url: https://YangDongJae.github.io/categories/EngineerLog
   - title: "자료구조"
     url: https://YangDongJae.github.io/categories/dataStructure
   - title: "머신러닝"
