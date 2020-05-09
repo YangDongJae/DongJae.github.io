@@ -2,7 +2,7 @@
     title : "[SE] 소프트웨어 공학 기본개념" 
 
     categories : 
-        엔지니어링 일기
+        SW공학
     
     description : "소포트웨어 분할통치, 구조화, 추상화 , 모델링, 요구사항분석 , 추적가능성, 경험의 축적과 재이용, 체계적인 평가와 관리"
 
@@ -11,7 +11,7 @@
     toc_label : "목차"
 
     tags : 
-        Software Engineering, 소프트웨어 공학
+        엔지니어링
 
     last_modified_at : 2020-05-07
  
