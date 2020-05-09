@@ -69,15 +69,15 @@ H(이상한 주사위 던지기) = (주사위가 던져졌을때 1이 나올 확
 >즉 Entropy의 값이 0이된다면, 일관적인 답이 또출이 된다. 주사위를 던져도 언제나 1이 나온다는 의미이다. 그런 주사위는의 Entropy는 0이다!
 
 ## Entropy를 활용한 Decision Tree 학습 알고리즘
-위에서 우리는 결정트리를 활용하기 위해 information theory slogan 을 활용하여  -log 함수 그래프를 도출하고, -log 함수를 통해서 특정 이벤트 E가 갖는 이벤트의 양 -log P (e) 를 도출하고, 이를통해 Entopy를 찾는 방법을 찾았다. 이제 Entropy를 활용하여 결정트리가 어떻게 동작하는지에 대해서 알아보자.
-
-### Decesion Tree
-
+위에서 우리는 결정트리를 활용하기 위해 information theory slogan 을 활용하여  -log 함수 그래프를 도출하고, -log 함수를 통해서 특정 이벤트 E가 갖는 이벤트의 양 -log P (e) 를 도출하고, 이를통해 Entropy를 찾는 방법을 찾았다. 이제 Entropy를 활용하여 결정트리가 어떻게 동작하는지에 대해서 알아보자.
 
 ### information gain
 information gain(정보의 이득) = H(v0) - H(v1) (초기 상태의 Entropy) - (Feature 기반의 Entropy) 즉 우리각 구하고자 하는 데이터들으 초기상태에 Entropy 와 특정 기준으로 나누어 도출한 Entropy값을 빼주면 Information gain 즉 정보의 이득을 산출할 수 있다.
 
 <br/>**우리는 information gain을 통해서 Decesion Tree를 동작하게 할 수 있다.**
+
+### Information gain을 활용한 Decision Tree의 구동원리
+결정트리는 Information gain의 값이 큰 특징들을 순차적으로 트리의 밑으로 붙이는 과정이다. 
 
 
 
