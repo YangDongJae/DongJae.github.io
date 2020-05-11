@@ -10,4 +10,4 @@
 ---
 # 중간고사 기록용
 
-[MachineLearningArchives_YangDongJae](https://drive.googl.com/open?id=17buQkbSFMN6X-jF6ycT4OY7A3VnmoXf_)
+[MachineLearningArchives_YangDongJae](https://drive.google.com/file/d/17buQkbSFMN6X-jF6ycT4OY7A3VnmoXf_/view?usp=sharing)
