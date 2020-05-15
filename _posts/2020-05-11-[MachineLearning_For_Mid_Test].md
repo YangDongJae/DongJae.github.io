@@ -9,5 +9,5 @@
 
 ---
 # 중간고사 기록용
-![]({{ site.url }}/assets/images/machineLearning/1.png    )
+![]({{ site.url }}/assets/images/machineLearning/1.jpeg    )
 [MachineLearningArchives_YangDongJae](https://drive.google.com/file/d/17buQkbSFMN6X-jF6ycT4OY7A3VnmoXf_/view?usp=sharing)
