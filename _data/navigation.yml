@@ -4,8 +4,8 @@ main:
     url: https://YangDongJae.github.io/categories/EngineerLog
   - title: "자료구조"
     url: https://YangDongJae.github.io/categories/dataStructure
-  - title: "머신러닝"
-    url: https://YangDongJae.github.io/categories/machineLearning
+  - title: "빅데이터"
+    url: https://YangDongJae.github.io/categories/bigData
   - title: "Java"
     url: https://YangDongJae.github.io/categories/java
   - title: "tags"

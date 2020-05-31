@@ -2,7 +2,9 @@
     title : "[데이터 사이언스] 언제 머신러닝을 사용할까?"
 
     description : "머신러닝 , Feature Selection, Cross validation , Confusion matrix"
-
+    
+    categories : 
+        빅데이터
     toc : True
 
     tags :
