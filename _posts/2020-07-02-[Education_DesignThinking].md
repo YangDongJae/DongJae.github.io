@@ -1,4 +1,14 @@
 ---
+    title: "Design Thinking"
+
+    categories : 
+        Internship
+        
+    tags:
+		인턴
+		Proess
+        
+    last_modified_at: 2020-07-01
 ---
 # Design Thinking
 
@@ -44,4 +54,8 @@ Design thinking - Anaytical Thinking 교집합  Intuiituve Thinking (with person
 
 Empathize - 에스노그라피 : 인류학자들이 인간의 행동양식을 연구하면서 대상의 느낌과 경험을 직접 체험하기 위해 시도했던 방법론
 
-Define - Real + Inspiring + valuable 
+Define - Real + Inspiring + valuable
+
+페르소나 -> 인공지능 챗봇을 만들 때 제일먼저 챗봇의사용자에 대한  페르소나들을  제작하는것이 중요함.
+
+
