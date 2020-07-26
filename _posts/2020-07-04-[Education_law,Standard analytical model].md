@@ -2,10 +2,10 @@
     title : "Law & Standard Analysis Model"
 
     categories : 
-        2020 빅데이터 청년인턴    
+        빅데이터   
 
     tags :
-        2020 빅데이터 청년인턴
+        빅데이터
 
     toc : True
 

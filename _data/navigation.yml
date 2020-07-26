@@ -1,5 +1,7 @@
 # main links
 main:
+  - title : "일상"
+    url: https://YangDongJae.github.io/categories/log
   - title: "엔지니어링"
     url: https://YangDongJae.github.io/categories/EngineerLog
   - title: "자료구조"

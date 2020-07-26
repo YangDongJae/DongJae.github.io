@@ -1,7 +1,7 @@
 ---
- title: "2020 빅데이터 청년인턴"
- permalink: /categories/Internship/
+ title: "일상"
+ permalink: /categories/log/
  layout: category
  author_profile: false
- taxonomy: 2020 빅데이터 청년인턴
+ taxonomy: 일상
 ---
