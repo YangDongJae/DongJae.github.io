@@ -16,11 +16,12 @@
 
 ---
 # 빅데이터 분석 방법론
-|종류|특징|Process|
-|:---:|:---:|:---:|
-|KDD|데이터 중심 Insight 도출|Selection -> Preprocessing -> Transformation -> Data modeling -> Interpretation/ Evaluation|
-|SEMMA|문제의 정의 자체가 어려운 내용을 데이터 기반으로 문제 재정의 및 해결방안 탐색하여 개선|Sample -> Explore -> Modify -> Model -> Assess|
-|CRISP - DM|비지니스와 데이터 이해를 시작으로 6단계로 수행함.|Business understanding -> Data understanding -> Data preparation -> Modeling -> Evaluation -> Deployment|
+
+| 종류 | 특징  | Process |
+| :---------:|:---------:|:---------:|
+| KDD | 데이터 중심 Insight 도출 | 2Selection -> Preprocessing -> Transformation -> Data modeling -> Interpretation/ Evaluation|
+| SEMMA|문제의 정의 자체가 어려운 내용을 데이터 기반으로 문제 재정의 및 해결방안 탐색하여 개선|Sample -> Explore -> Modify -> Model -> Assess|
+| CRISP - DM| 비지니스와 데이터 이해를 시작으로 6단계로 수행함.|  Business understanding -> Data understanding -> Data preparation -> Modeling -> Evaluation -> Deployment|
 
 ## KDD
 
