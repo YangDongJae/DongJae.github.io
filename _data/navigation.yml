@@ -8,6 +8,8 @@ main:
     url: https://YangDongJae.github.io/categories/dataStructure
   - title: "빅데이터"
     url: https://YangDongJae.github.io/categories/bigData
+  - title: "AI"
+    url: https://YangDongJae.github.io/categories/AI
   - title: "Java"
     url: https://YangDongJae.github.io/categories/java
   - title: "tags"
