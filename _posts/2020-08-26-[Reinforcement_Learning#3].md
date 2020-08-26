@@ -43,8 +43,7 @@ argmax 는 $q\ast$를 최대로 해주는 행동 a를 반환함.
 $v\ast(s) = \displaystyle\max_a[v_\pi(s)]$
 
 ## 최적의 큐함수
-$q \ast (s,a) = \displaystyle \
-\max_\pi[q_\pi(s,a)]$
+$q \ast (s,a) = \displaystyle \max_\pi[q_\pi(s,a)]$
 
 # 벨만의 최적방정식
 
