@@ -35,15 +35,16 @@ $v_\pi(s) = \displaystyle\sum_{a \in A} \pi(a|s)(r(s,a) + \gamma \sum_{s' \in S}
 
 ## 최적 정책 
 
-$$ \pi \ast (s,a) = \left \{ \begin{array}{cc} 1 \space if a = argmax_{a\in A} q\ast(s,a) \\ 0 \space otherwise \end{array} \right \} $$<br>
+$ \pi \ast (s,a) = \left \{ \begin{array}{cc} 1 \space if a = argmax_{a\in A} q\ast(s,a) \\ 0 \space otherwise \end{array} \right \} $<br>
 
 argmax 는 $q\ast$를 최대로 해주는 행동 a를 반환함.
 
 ## 최적의 가치함수
-$v\ast(s) = \max_a[v_\pi(s)]$
+$v\ast(s) = \displaystyle\max_a[v_\pi(s)]$
 
 ## 최적의 큐함수
-$q \ast (s,a) = \displaystyle \max_\pi[q_\pi(s,a)]$
+$q \ast (s,a) = \displaystyle \
+\max_\pi[q_\pi(s,a)]$
 
 # 벨만의 최적방정식
 
