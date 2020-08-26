@@ -1,7 +1,7 @@
 ---
   title : "강화학습 , MDP란?"
 
-  describe : "강화학습 , MDP란? , 파이썬과 케라스로 배우는 강화학습"
+  describe : "강화학습 , MDP란? Markov Decesion Process , 파이썬과 케라스로 배우는 강화학습"
 
   categories : 
       AI
@@ -14,7 +14,7 @@
     AI
     강화학습
 
-  last_modified_at : 2020-08-02
+  last_modified_at : 2020-08-26
 
   use_math: true
 ---
