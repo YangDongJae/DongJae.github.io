@@ -47,6 +47,6 @@ $q \ast (s,a) = \displaystyle \max_\pi[q_\pi(s,a)]$
 
 # 벨만의 최적방정식
 
-$$v \ast (s) = \max_aE[R_{t+1} + \gamma v \ast (S_{t+1}) \mid S_t = s , A_t = a]$$
+$$v\ast (s) = \max_aE[R_{t+1} + \gamma v \ast (S_{t+1}) \mid S_t = s , A_t = a]$$
 
 더 좋은 정책을 찾아가다보면 최적의 정책을 찾을 수 있음. 최적의 정책은 최적의 가치함수를 받게하는 정책이며, 가치함수 사이의 관계식이 벨만 최적 방정식임.
