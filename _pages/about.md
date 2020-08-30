@@ -65,7 +65,7 @@ solution을 제시하는 영상을 기획 제작하게 하는 등 다양한 사�
 | ![]({{ site.url }}/assets/images/About/AECF.png    )<br/> Asia Economic Community Forum | 2017.06.03 ~ 2017.12.31    | 2017 아시아 경제공동체 포럼 기획 <br/> Model Asia Union 국제 학술대회 기획 및 운영 <br/>협력업체 선정 및 국제 포럼 홍보 및 마케팅 수행  |
 | ![]({{ site.url }}/assets/images/About/PRISM.png    )<br/>PRISM    |  2017.06.02 ~ 2017.10.31   |  PRISM 주관 교육행사 및 네트워킹 파티 기획 보조 <br/>  |
 | ![]({{ site.url }}/assets/images/About/Vib.png    )<br/>Vib    | 2017.11.01 ~ 2018.04.30    |  Front-end 개발 <br/>Plant 325 중,고등생 교과서 E북 개발 프로젝트 참여  |
-| ![]({{ site.url }}/assets/images/About/보건복지부.png    )<br/>보건복지부 데이터 & AI팀|2020.09.01 ~ 2021.02.28|데이터 분석 및 가상데이터 구축|
+| ![]({{ site.url }}/assets/images/About/Mini.png    )<br/>보건복지부 데이터 & AI팀|2020.09.01 ~ 2021.02.28|데이터 분석 및 가상데이터 구축|
 
 ### 대외활동 
 
