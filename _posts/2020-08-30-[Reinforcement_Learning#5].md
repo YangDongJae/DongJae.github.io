@@ -44,21 +44,25 @@
 
 위 수식은 t가 늘어날수록 일어날 수 있는 경우의 수가 기하급수적으로 늘어나기 때문에, 가치함수를 계산하기 어려움 ➡️ Dynamic Programming을 통해 벨만 기대방정식을 사용
 
-> Dynamic Programming을 적용한 가치함수의 계산 <br> $$v_\pi(s) = E_\pi[R_{t+1} + \gamma v_\pi(S_{t + 1}) \mid S_t = s] $$ <br> <br> 컴퓨터가 게산할 수 있게 확률(대문자 알파벳)을 합의 형태로 변경 <br> $$v_\pi (s) = \displaystyle \sum_{a \in A} \pi(a \mid s)(r_{(s,a)} + \gamma v_\pi(s')) $$
+> Dynamic Programming을 적용한 가치함수의 계산 <br>
+$$v_\pi(s) = E_\pi[R_{t+1} + \gamma v_\pi(S_{t + 1}) \mid S_t = s]$$
+ <br> <br> 
+ 컴퓨터가 게산할 수 있게 확률(대문자 알파벳)을 합의 형태로 변경 <br> 
+ $$v_\pi (s) = \displaystyle \sum_{a \in A} \pi(a \mid s)(r_{(s,a)} + \gamma v_\pi(s'))$$
 
 ## 정책평가 과정
 
 1. $k$번째 가치함수 행렬에서 현재 상태 $s$에서 갈 수 있는 다음 상태 $s'$ 에 저장돼 있는 가치함수 $v_k(s')$를 불러온다
 
 2. $v_k(s')$에 할인율 $\gamma$를 곱하고 그 상태로 가는 행동에 대한 보상 $R^a_s$를 더한다
-> $$r(s,a) + \gamma v_k(s')$$
+<br>
+$$r(s,a) + \gamma v_k(s')$${:align}
 
-3. 2번에서 구한 값에 그 행동을 할 확률, 즉 정책 값을 곱한다
-> $$ \pi (a \mid s) (r(s,a) + \gamma v_k(s'))$$
+3. 2번에서 구한 값에 그 행동을 할 확률, 즉 정책 값을 곱한다<br>
+$$ \pi (a \mid s) (r(s,a) + \gamma v_k(s'))$$
 
-4. 3번에 모든 선택 가능한 행동에 대해 반복하고 그 값들을 더한다
-> $$ \displaystyle \sum_{a \in A} \pi (a \mid s) (r_{s , a} + \gamma v_k(s'))$$
-20
+4. 3번에 모든 선택 가능한 행동에 대해 반복하고 그 값들을 더한다<br>
+$\displaystyle \sum_{a \in A} \pi (a \mid s) (r_{s , a} + \gamma v_k(s'))$
 5. 4번 과정을 통해 더한 값을 $k + 1$번째 가치함수 행렬에 상태 $s$ 자리에 저장한다.
 
 6. 1-5 과정을 모든 $s \in S $에 대해 반복한다.
