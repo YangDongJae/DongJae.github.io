@@ -43,4 +43,16 @@ iteration는 epoch를 나누어서 실행하는 횟수임.
 
 > _The number of passes to complete one epoch._
 
-![]({{ site.url }}/assets/images/Reinforcement/Reinforcement_1.png    )
+![]({{ site.url }}/assets/images/Reinforcement/Reonforcement_1.png    )
+
+* 총 데이터가 100개 , batchsize가 20개 이다.
+
+1. 1 iteration 은 5 개 데이터에 대해서 학습
+2. 1 Epoch = 100 / batch size = 5 iteration
+
+# Dynamic Programming
+
+벨만이 최초로 적립한 개념이며, 작은 문제가 큰 문제 안에 중첩돼 있는 경우에 작은 문제의 답을 다른 작은 문제에서 이용함으로써 효율적으로 계산하는 방법.
+
+> Dynamic Progoramming : 대상이 시간에 따라 변화(Dynamic) + 계산을 통해 프로세스가 다단계로 이루어지는 것(Programming) <br>
+즉 시간에 따라 다른 프로세스들을 풀어나감.
