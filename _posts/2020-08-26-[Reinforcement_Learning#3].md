@@ -33,11 +33,8 @@ $v_\pi(s) = \displaystyle\sum_{a \in A} \pi(a|s)(r(s,a) + \gamma \sum_{s' \in S}
 
 **모든행동에 대한 정책 * (상태와 행동에 대한 보상 + ( 상태 s에서 행동 a를 통해 상태s'으로 갈 확률 * 다음 행동에 대한 가치함수 ))**
 
-## 최적 정책 
+\
 
-$\pi \ast (s,a) = \left \{ \begin{array}{cc} 1 \space if a = argmax_{a\in A} q\ast(s,a) \\ 0 \space otherwise \end{array} \right \}$<br>
-
-argmax 는 $q\ast$를 최대로 해주는 행동 a를 반환함.
 
 ## 최적의 가치함수
 $v\ast(s) = \displaystyle\max_a[v_\pi(s)]$
