@@ -1,10 +1,10 @@
 ---
-    title: "[자료구조,Python] 파이썬으로 만들어보는 링크드 리스트 (linked list)"
+    title: "[자료구조,Python] 파이썬으로 만들어보는 링크드 리스트,연결 리스트 (linked list)"
 
     categories : 
         자료구조
         
-    description : "[자료구조,Python] 파이썬으로 구현하는 링크드 리스트(Linked List) 자료구조"
+    description : "[자료구조,Python] 파이썬으로 구현하는 링크드 리스트,연결 리스트(Linked List) 자료구조"
     
     toc : true
     toc_label: "목차"
