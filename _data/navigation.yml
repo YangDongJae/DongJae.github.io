@@ -2,6 +2,8 @@
 main:
   - title : "일상"
     url: https://YangDongJae.github.io/categories/log
+  - title: "Algirhtm"
+    url: https://YangDongJae.github.io/categories/Algorithm    
   - title: "엔지니어링"
     url: https://YangDongJae.github.io/categories/EngineerLog
   - title: "자료구조"
@@ -20,7 +22,7 @@ main:
     url: https://YangDongJae.github.io/about/
   - title: "Home"
     url: https://YangDongJae.github.io
-    
+
     
   
   # - title: "Sample Posts"
