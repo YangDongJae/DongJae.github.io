@@ -2,6 +2,8 @@
 main:
   - title : "후기"
     url: https://YangDongJae.github.io/categories/log
+  - title: "Algirhtm"
+    url: https://YangDongJae.github.io/categories/Algorithm    
   - title: "엔지니어링"
     url: https://YangDongJae.github.io/categories/EngineerLog
   - title: "자료구조"
@@ -22,8 +24,12 @@ main:
     url: https://YangDongJae.github.io/about/
   - title: "Home"
     url: https://YangDongJae.github.io
+<<<<<<< HEAD
   
     
+=======
+
+>>>>>>> 1222d3901ce36c426986db1ec7422d2217daa33b
     
   
   # - title: "Sample Posts"
