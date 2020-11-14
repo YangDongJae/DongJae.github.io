@@ -2,7 +2,7 @@
 main:
   - title : "후기"
     url: https://YangDongJae.github.io/categories/log
-  - title: "Algirhtm"
+  - title: "Algorithm"
     url: https://YangDongJae.github.io/categories/Algorithm    
   - title: "엔지니어링"
     url: https://YangDongJae.github.io/categories/EngineerLog
