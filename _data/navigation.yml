@@ -1,36 +1,30 @@
 # main links
 main:
   - title : "후기"
-    url: https://YangDongJae.github.io/categories/log
+    url: https://yangdongjae.github.io/tech_blog/categories/log
   - title: "Algorithm"
-    url: https://YangDongJae.github.io/categories/Algorithm    
+    url: https://yangdongjae.github.io/tech_blog/categories/Algorithm
   - title: "엔지니어링"
-    url: https://YangDongJae.github.io/categories/EngineerLog
+    url: https://yangdongjae.github.io/tech_blog/categories/EngineerLog
   - title: "자료구조"
-    url: https://YangDongJae.github.io/categories/dataStructure
+    url: https://yangdongjae.github.io/tech_blog/categories/dataStructure
   - title: "알고리즘"
-    url: https://YangDongJae.github.io/categories/algorithm
+    url: https://yangdongjae.github.io/tech_blog/categories/algorithm
   - title: "빅데이터"
-    url: https://YangDongJae.github.io/categories/bigData
+    url: https://yangdongjae.github.io/tech_blog/categories/bigData
   - title: "AI"
-    url: https://YangDongJae.github.io/categories/AI
+    url: https://yangdongjae.github.io/tech_blog/categories/AI
   - title: "Java"
-    url: https://YangDongJae.github.io/categories/java
+    url: https://yangdongjae.github.io/tech_blog/categories/java
   - title: "tags"
-    url: https://YangDongJae.github.io/tags
+    url: https://yangdongjae.github.io/tech_blog/tags
   - title: "categories"
-    url: https://YangDongJae.github.io/categories
+    url: https://yangdongjae.github.io/tech_blog/categories
   - title: "About"
-    url: https://YangDongJae.github.io/about/
+    url: https://yangdongjae.github.io/tech_blog/about/
   - title: "Home"
-    url: https://YangDongJae.github.io
-<<<<<<< HEAD
-  
-    
-=======
+    url: https://yangdongjae.github.io/tech_blog/
 
->>>>>>> 1222d3901ce36c426986db1ec7422d2217daa33b
-    
   
   # - title: "Sample Posts"
   #   url: /year-archive/
