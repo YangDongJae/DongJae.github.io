@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Low To Top"
 description              : "천방지축 어리둥절 빙글빙글 돌아가는 개발자 하루"
-url                      : "https://YangDongJae.github.io/tech_blog"
+url                      : "https://YangDongJae.github.io/tech_blog/"
 baseurl                  : # 서브 경로가 있는 경우 기재
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : #"/assets/images/bio-photo-keyboard.jpg"
@@ -77,10 +77,10 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification : "파이썬"
+google_site_verification : 
 bing_site_verification   :
 yandex_site_verification :
-naver_site_verification  : "파이썬"
+naver_site_verification  : 
 
 # Social Sharing
 twitter:
