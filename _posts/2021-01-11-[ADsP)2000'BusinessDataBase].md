@@ -36,13 +36,13 @@
 #### CRM(Customer Relationship Management)
  **'고객관계관리'**라고도 하며 기업이 고객과 관련된 내외부 자료를 분석, 통합해 고객중심 자료들을 극대화하고 이를 토대로 그객특성에 맞게 마케팅 활동을 계획 지원 평가하는 과정
 
- #### RTE(Real-Time Enterprise)
+#### RTE(Real-Time Enterprise)
  회사 주요 경영정보를 통합관리하는 실시간 기업경영 시스템. 전사자원관리(ERP), 판매량관리(SCM), 고객관리(CRM) 등 부분별 전산화에서 한발 더 나아가 회사 전부분의 정보를 하나로 통합함으로써 경영자의 빠른 의사결정을 이끌어내려는 목적. 기업활동이 글로벌화되고 기술의 발전으로 제품 숨여이 짧아지는 현실에 대응되고 있음
 ### 금융
 #### EAI(Enterprise Application Integration)
  기업 내 상호 연관된 모든 애플리캐이션을 유기적으로 연동하여 필요한 정보를 중앙에 집중함으로 통합, 고나리, 사용할 수 있는 환경을 구현하는것으로 e-비지니스를 위한 기본 이프라임
 
- #### EDW(Enterprise Data Warehouse)
+#### EDW(Enterprise Data Warehouse)
   기존 DW(Data Warehouse)를 전사적으로 확장한 모델로 BPR과 CRM, BSC같은 다양한 분석 애플리케이션들을 위한원천이 된다. 따라서 EDW를 구축하는 것은 단순한 정보를 빠르게 전달하는  대형 시스템을 도입한다는 의미가 아니라 기업 리소스의 유기적 통합, 다양화된 관리체계정비, 데이터의 중복 방지 등을 위해 시스템을 재설계하는것을 나타낸다.
 ### 유통
 #### KMS(Knowledge Management System)
