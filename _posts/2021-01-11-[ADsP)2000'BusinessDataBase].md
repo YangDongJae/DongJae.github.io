@@ -48,4 +48,4 @@
 #### KMS(Knowledge Management System)
 지식관리시스템을 의미하며,추가해야함
 #### RFID(RF, Radio Frequency)
-주파수를 이용해 ID를 식벽하는 SYSTEM으로 일명 전자태고르 불림.
+주파수를 이용해 ID를 식벽하는 SYSTEM으로 일명 전자태그 로 불림.
