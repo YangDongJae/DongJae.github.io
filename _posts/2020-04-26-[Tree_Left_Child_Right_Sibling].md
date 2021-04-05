@@ -2,7 +2,7 @@
     title : "[자료구조,Python] 파이썬으로 만들어보는 Tree(Left Child- right Sibling) "
     
     categories : 
-        자료구조
+        TECH
         
     description : "[자료구조,Python] 파이썬으로 구현하는 트리(Tree_Left Child- right Sibling) 자료구조"
     
@@ -11,9 +11,9 @@
     toc_label : "목차"
     
     tags :
-        python 
+
         자료구조
-        Tree
+
         
     last_modified_at: 2020-04-26    
 ---

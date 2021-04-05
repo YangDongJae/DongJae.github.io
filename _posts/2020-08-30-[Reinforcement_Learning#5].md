@@ -4,7 +4,7 @@
   describe : "강화학습 정책 이터레이션이란? Policy iteration , Policy Evaluation , Policty Improvement"
 
   categories : 
-      AI
+      TECH
 
   toc : True
 
@@ -12,7 +12,6 @@
 
   tags : 
     AI
-    강화학습
 
   last_modified_at : 2020-08-30
 

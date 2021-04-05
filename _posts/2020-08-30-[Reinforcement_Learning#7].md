@@ -4,7 +4,7 @@
   describe : "강화학습 과 다이내믹 프로그래밍 , 어디까지?"
 
   categories : 
-      AI
+      TECH
 
   toc : True
 
@@ -12,7 +12,6 @@
 
   tags : 
     AI
-    강화학습
 
   last_modified_at : 2020-08-30
 

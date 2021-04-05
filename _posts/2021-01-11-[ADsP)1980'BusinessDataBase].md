@@ -2,7 +2,7 @@
     title : "ADsP) 기업내부 데이터베이스 OLTP vs OLAP"
     describe : "ADsP) OLTP 와 OLAP는 무엇이며 어떤 차이점이 있는지 설명"
     categories : 
-        빅데이터   
+        TECH   
 
     tags :
         빅데이터

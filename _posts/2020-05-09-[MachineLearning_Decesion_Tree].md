@@ -4,14 +4,12 @@
     description : "머신러닝 결정트리 러닝 알고리즘 , Decesion Tree , 엔트로피 , Entopy"
 
     categories : 
-        빅데이터
+        TECH
 
     toc : True
 
     tags :
         머신러닝
-        데이터사이언스
-        러닝알고리즘
 
     last_modified_at : 2020-05-09
 ---

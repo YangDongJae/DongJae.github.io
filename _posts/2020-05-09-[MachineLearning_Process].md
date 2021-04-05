@@ -4,14 +4,13 @@
     description : "데이터 사이언티스트들의 문제해결 과정"
     
     categories : 
-        빅데이터
+        TECH
     toc : True
 
     toc_label : "목차"
 
     tags :
         머신러닝
-        데이터사이언스
 
     last_modified_at  : 2020-05-09
 ---

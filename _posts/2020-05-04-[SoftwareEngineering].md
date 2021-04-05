@@ -2,7 +2,7 @@
     title : "[소프트웨어 엔지니어링] 중간고사 기록용"
 
     categories : 
-        SW공학
+        TECH
     
     description : "대구모 소프트웨어 개발 / 소프트웨어 개발공정 / 소프트웨어 프로젝트 관리"
 
@@ -12,7 +12,6 @@
 
     tags : 
         엔지니어링
-        중간고사
 
     last_modified_at : 2020-05-04
  

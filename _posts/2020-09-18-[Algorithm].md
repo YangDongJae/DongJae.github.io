@@ -4,14 +4,14 @@
   describe : "Python [알고리즘] List에서 중복되지않는 1개의 값 추출하기"
 
   categories : 
-      Algorithm
+      TECH
 
   toc : True
 
   toc_label: "목차"
 
   tags : 
-    python,Algorithm
+    Algorithm
 
   last_modified_at : 2020-09-17
 

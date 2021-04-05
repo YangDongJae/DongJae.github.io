@@ -4,10 +4,9 @@
     description : "공공데이터 프로젝트 과정"
     
     categories : 
-        빅데이터
+        TECH
         
     tags :
-        머신러닝
         데이터사이언스
 
     last_modified_at  : 2020-06-01

@@ -4,7 +4,7 @@
   describe : "벨만 기대 방정식 , 파이썬과 케라스로 배우는 강화학습"
 
   categories : 
-      AI
+      TECH
 
   toc : True
 
@@ -12,7 +12,6 @@
 
   tags : 
     AI
-    강화학습
 
   last_modified_at : 2020-08-26
 

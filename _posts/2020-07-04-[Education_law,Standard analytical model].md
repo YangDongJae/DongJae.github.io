@@ -2,7 +2,7 @@
     title : "Law & Standard Analysis Model"
 
     categories : 
-        빅데이터   
+        TECH   
 
     tags :
         빅데이터

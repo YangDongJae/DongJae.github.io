@@ -4,7 +4,7 @@
   describe : "강화학습 가치 이터레이션이란? Value Iteration"
 
   categories : 
-      AI
+      TECH
 
   toc : True
 
@@ -12,7 +12,6 @@
 
   tags : 
     AI
-    강화학습
 
   last_modified_at : 2020-08-30
 

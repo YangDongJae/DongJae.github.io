@@ -2,7 +2,7 @@
     title : "[SE] 소프트웨어 공학 개발공정" 
 
     categories : 
-        엔지니어링 일기
+        TECH
     
     description : "폭포수모델, 진화형프로세스 모델 , 진화형 프로세스 모델, 프로세스 프로그래밍"
 
@@ -11,7 +11,7 @@
     toc_label : "목차"
 
     tags : 
-        Software Engineering, 소프트웨어 공학
+        엔지니어링
 
     last_modified_at : 2020-05-07
  

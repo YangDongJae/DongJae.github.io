@@ -2,7 +2,7 @@
     title : "[자료구조] 중간고사 기록용"
 
     categories : 
-        자료구조
+        TECH
     
     description : "리스트 , 스택 , 큐 , 트리 , 이진트리 , 이진검색트리"
 
@@ -11,7 +11,6 @@
     toc_label : "목차"
 
     tags : 
-        중간고사
         자료구조
 
 

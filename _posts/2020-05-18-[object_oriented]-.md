@@ -2,7 +2,7 @@
     title : "[SE] 소프트웨어 공학 객체지향분석" 
 
     categories : 
-        엔지니어링 일기
+        TECH
     
     description : "객체지향분석, 계승 , 클래스, 객체 , 외연 , 내연"
 
@@ -11,7 +11,7 @@
     toc_label : "목차"
 
     tags : 
-        Software Engineering, 소프트웨어 공학
+        엔지니어링
 
     last_modified_at : 2020-05-18
 ---

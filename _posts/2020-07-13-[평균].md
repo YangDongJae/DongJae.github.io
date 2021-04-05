@@ -3,7 +3,7 @@
 
     describe : "데이터 분석에 필요한 통계지식" 
     categories : 
-        빅데이터   
+        TECH   
 
     tags :
         빅데이터

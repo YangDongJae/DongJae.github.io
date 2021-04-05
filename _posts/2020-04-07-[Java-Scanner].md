@@ -2,13 +2,12 @@
     title: "[java] 초심자도 이해하는 스캐너 (Scanner Class) 를 사용한 입력방법"
 
     categories:
-        Java
+        TECH
     
     description : "[java] 초심자도 이해하는 스캐너 (Scanner Class) 를 사용한 입력방법"
     
     tags:
          Java
-         객체지향
         
     last_modified_at: 2020-04-07
 ---
