@@ -13,9 +13,7 @@ main:
   - title: "tags"
     url: https://yangdongjae.github.io/tags
   - title: "categories"
-    url: https://yangdongjae.github.io/categories
-  - title: "main"
-    url: https://yangdongjae.github.io/main_blog/    
+    url: https://yangdongjae.github.io/categories  
   - title: "About"
     url: https://yangdongjae.github.io/about/
   - title: "Home"
