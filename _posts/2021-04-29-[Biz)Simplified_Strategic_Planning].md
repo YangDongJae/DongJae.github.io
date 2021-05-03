@@ -30,7 +30,7 @@ last_modified_at : 2021-04-29
 
 ## 변화하지 않으면 살아남을 수 없다.
 
-![]({{ site.url }}/assets/images/biz/TimeChangeGraph )
+![](/Users/yangdongjae/Desktop/2021/github/YangDongJae.github.io/assets/images/Biz/StrategicPlan/TimeChangeGraph.png)
 
 
 
