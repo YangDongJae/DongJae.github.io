@@ -129,13 +129,17 @@ last_modified_at : 2021-04-29
   * 시간은 얼마나 걸릴 것인가?
   * 누가 책임을 맡을 것인가?
 
+![](../assets/images/biz/Strategic_planing_process)
+
+
 > 상기 명시된 책에서는 1차회기는 2일간, 2차회기는 3일간, 3차회기는 2일간 진행하며, 진행기간동안 위의 8가지에 대한 내용을 다루라고 명시하고있다.
 
 ## 전략기획 프로세스 구조
 일련의 회의를 거쳐 모든것은 일반적인 사하에서 구체적인 사항으로 흘러간다. **일반적이고 사실적이며 쉽게 의견일치를 이룰수 있는 사항에서 시작하여 이에 대한 합의를 이루어가면서 보다 구체적이고 미래지향적이며 의견의 일치를 보기 어려운 사항으로 넘어가야한다.**
 
 #### 전략기획 프로세스의 흐름
-![]({{ site.url }}/assets/images/dataStructure/Stack&Queue/Strategic_planing_process.png ) 
+![](../assets/images/biz/flow_of_strategicPlanning)
+
 
 #### 전략기획 프로세스 주의사항
 
