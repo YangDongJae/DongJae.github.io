@@ -129,7 +129,7 @@ last_modified_at : 2021-04-29
   * 시간은 얼마나 걸릴 것인가?
   * 누가 책임을 맡을 것인가?
 
-![]({{ site.url }}/assets/images/biz/Strategic_planing_process )
+![test](https://www.google.com/imgres?imgurl=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fmodules%2Fopen_graph%2Fgithub-mark.png&imgrefurl=https%3A%2F%2Fgithub.com%2Fcollections&tbnid=2Kf3Pydv1Sbc0M&vet=12ahUKEwj_zrWkqKzwAhVVAaYKHXAND1YQMygBegUIARDQAQ..i&docid=Wd4HuNJYKlenaM&w=1200&h=630&q=github&ved=2ahUKEwj_zrWkqKzwAhVVAaYKHXAND1YQMygBegUIARDQAQ)
 
 > 상기 명시된 책에서는 1차회기는 2일간, 2차회기는 3일간, 3차회기는 2일간 진행하며, 진행기간동안 위의 8가지에 대한 내용을 다루라고 명시하고있다.
 
