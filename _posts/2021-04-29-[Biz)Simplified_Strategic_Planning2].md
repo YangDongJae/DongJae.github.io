@@ -137,7 +137,7 @@ last_modified_at : 2021-04-29
 일련의 회의를 거쳐 모든것은 일반적인 사하에서 구체적인 사항으로 흘러간다. **일반적이고 사실적이며 쉽게 의견일치를 이룰수 있는 사항에서 시작하여 이에 대한 합의를 이루어가면서 보다 구체적이고 미래지향적이며 의견의 일치를 보기 어려운 사항으로 넘어가야한다.**
 
 #### 전략기획 프로세스의 흐름
-![]({{ site.url }}/assets/images/biz/flow_of_strategicPlanning )
+![test2](https://drive.google.com/file/d/1YVS6d0oSQTOftMKWba28HXWdsNy9IDWf/view?usp=sharing)
 
 
 #### 전략기획 프로세스 주의사항
