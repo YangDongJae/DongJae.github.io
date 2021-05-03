@@ -62,7 +62,7 @@ CEO 또는 관리자 등의 핵심 인물은 당연히 전략기획팀의 일원
 
 회사 내부의 관계를 대표하는 구도에 적합하게 팀을 구성한다면, 시장을 바라보는 다양한 관점에서의 전략을 기획할 수 있다. 그리고 전략에 대해 각각의 관점에서 문제점을 보완해가며 수립할 수 있다. 가장 대표적인 삼권분립의 형태는 아래의 그림과 같다.
 
-![](../assets/images/biz/Strategic_Planning_TeamBuilding)
+![]({{ site.url }}/assets/images/biz/Strategic_Planning_TeamBuilding )
 
 
 ### 전략기획팀에 배제되야하는 사람들
