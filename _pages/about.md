@@ -32,7 +32,7 @@ student of AI Software Engineering <br/>
 
 | &nbsp;&nbsp;대&nbsp;&nbsp;외&nbsp;&nbsp;활&nbsp;&nbsp;동&nbsp;&nbsp;명 | 기간  |내용 | 설명 |
 | :---------:|:---------:|:-----------------------------:|:---------:|
-|![]({{ site.url }}/assets/images/About/AYC.png    )<br/>아시아 청년연합<br/>서포터즈|2020.1.11 ~ 2020.04.11| ○[이슬람 종교 차별에 대한 <br/>  사회적 영상 기획 및 제작](https://www.youtube.com/watch?v=3uM8zKF3gJE)<br/> ○'20대가 생각하는 취업과 창업'을 주제로 영상 기획 및 제작 <br/>○외국인 서포터즈 프로그램기획 |Asia Federation Youth 의 아시아 청년 연합 서포터즈에 참가하여, 창업, 문화교류, 취업 을 주제로 영상과 발표자료를 기획하고 제작하여 대중들 앞에서 발표.
+|![](https://www.google.com/imgres?imgurl=http%3A%2F%2Fncsplus.co.kr%2F_img%2Fssis%2Fkhwis7_0131_001.jpg&imgrefurl=http%3A%2F%2Fwww.ssis.or.kr%2Flay1%2Fbbs%2FS1T916C1391%2FO%2F130%2Fview.do%3Farticle_seq%3D120302%26cpage%3D1%26rows%3D10%26condition%3D%26keyword%3D&tbnid=zETVPbkghuEnuM&vet=12ahUKEwjC49HGuILxAhXpxIsBHTjEAUkQMygBegUIARCXAQ..i&docid=DdfSiIEIq_z0qM&w=698&h=464&q=사회보장정보원&client=safari&ved=2ahUKEwjC49HGuILxAhXpxIsBHTjEAUkQMygBegUIARCXAQ)<br/>아시아 청년연합<br/>서포터즈|2020.1.11 ~ 2020.04.11| ○[이슬람 종교 차별에 대한 <br/>  사회적 영상 기획 및 제작](https://www.youtube.com/watch?v=3uM8zKF3gJE)<br/> ○'20대가 생각하는 취업과 창업'을 주제로 영상 기획 및 제작 <br/>○외국인 서포터즈 프로그램기획 |Asia Federation Youth 의 아시아 청년 연합 서포터즈에 참가하여, 창업, 문화교류, 취업 을 주제로 영상과 발표자료를 기획하고 제작하여 대중들 앞에서 발표.
 
 ### 수상경력
 
