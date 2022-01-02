@@ -1,18 +1,16 @@
 # main links
 main:
-  - title : "LIFE"
-    url: https://yangdongjae.github.io/categories/LIFE
-  - title: "JOURNALISM"
-    url: https://yangdongjae.github.io/categories/JOURNALISM
-  - title: "BUSINESS"
-    url: https://yangdongjae.github.io/categories/BUSINESS
-  - title: "IT"
-    url: https://yangdongjae.github.io/categories/IT
-  - title: "TECH"
-    url: https://yangdongjae.github.io/categories/TECH
-  - title: "tags"
+  - title : "AI"
+    url: https://yangdongjae.github.io/categories/AI
+  - title: "Computer Science"
+    url: https://yangdongjae.github.io/categories/ComputerScience
+  - title: "Research Paper"
+    url: https://yangdongjae.github.io/categories/ResearchPaper
+  - title: "MIT Challenge"
+    url: https://yangdongjae.github.io/categories/MIT
+  - title: "Tags"
     url: https://yangdongjae.github.io/tags
-  - title: "categories"
+  - title: "Categories"
     url: https://yangdongjae.github.io/categories  
   - title: "About"
     url: https://yangdongjae.github.io/about/

@@ -3,7 +3,7 @@
 
     describe : "트랜잭션이란? 트랜잭션의 상태 , 조건 , 연산 , 처리방법" 
     categories : 
-        TECH   
+        Computer Science   
 
     tags :
         빅데이터

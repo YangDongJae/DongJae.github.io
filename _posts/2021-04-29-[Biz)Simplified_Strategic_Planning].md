@@ -1,7 +1,7 @@
 ---
 title : 공대생이 공부하는 경영학 전략기획 방법 I 
 
-categories : BUSINESS
+categories : Computer Science
 
 description : 엔지니어가 알아야하는 경영학 회사의 중장기 전략방향을 설정하는 전략기획 업무, 그에대한 해법
 

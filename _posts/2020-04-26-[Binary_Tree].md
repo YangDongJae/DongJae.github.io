@@ -2,7 +2,7 @@
     title : "[자료구조,Python] 파이썬으로 만들어보는 이진트리 Binary Tree와 순회"
     
     categories : 
-        TECH
+        Computer Science
         
     description : "[자료구조,Python] 파이썬으로 구현하는 이진트리 Binary Tree 자료구조 , 순회 (전위 , 중위 , 후위 )"
     

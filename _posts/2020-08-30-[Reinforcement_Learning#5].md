@@ -4,7 +4,7 @@
   describe : "강화학습 정책 이터레이션이란? Policy iteration , Policy Evaluation , Policty Improvement"
 
   categories : 
-      TECH
+      Computer Science
 
   toc : True
 

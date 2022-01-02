@@ -4,7 +4,7 @@
     description : "머신러닝 , Feature Selection, Cross validation , Confusion matrix"
     
     categories : 
-        TECH
+        Computer Science
     toc : True
 
     tags :

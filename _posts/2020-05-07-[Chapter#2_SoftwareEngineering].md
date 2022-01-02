@@ -2,7 +2,7 @@
     title : "[SE] 소프트웨어 공학 개발공정" 
 
     categories : 
-        TECH
+        Computer Science
     
     description : "폭포수모델, 진화형프로세스 모델 , 진화형 프로세스 모델, 프로세스 프로그래밍"
 

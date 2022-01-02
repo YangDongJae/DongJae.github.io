@@ -2,7 +2,7 @@
     title : "[자료구조] 중간고사 기록용"
 
     categories : 
-        TECH
+        Computer Science
     
     description : "리스트 , 스택 , 큐 , 트리 , 이진트리 , 이진검색트리"
 

@@ -3,7 +3,7 @@
 
     categories :
     
-        TECH
+        Computer Science
 
     tags :
         빅데이터

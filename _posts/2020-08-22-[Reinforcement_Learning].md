@@ -4,7 +4,7 @@
   describe : "파이썬과 케라스로 배우는 강화학습 : 개념 , 문제 , 예시"
 
   categories : 
-      TECH
+      Computer Science
 
   toc : True
 

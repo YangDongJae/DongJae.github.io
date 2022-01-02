@@ -1,8 +1,8 @@
 ---
- title: "LIFE"
- permalink: /categories/LIFE/
+ title: "MIT"
+ permalink: /categories/MIT/
  layout: category
  author_profile: false
- taxonomy: LIFE
+ taxonomy: MIT
 ---
 

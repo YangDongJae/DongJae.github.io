@@ -2,7 +2,7 @@
     title : "[데이터 사이언스] 중간고사 기록용"
 
     categories : 
-        TECH
+        Computer Science
 
     tags :
         머신러닝

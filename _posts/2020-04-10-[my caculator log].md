@@ -2,7 +2,7 @@
     title: "[java] 조건문(switch / 다중 if else)을 활용한 계산기 만들기"
 
     categories : 
-        TECH
+        Computer Science
         
     description : "Java 조건문 if / 다중 if else / switch 를 활용해서 계산기 만들기"
     

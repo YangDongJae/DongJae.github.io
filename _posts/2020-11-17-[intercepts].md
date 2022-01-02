@@ -2,7 +2,7 @@
     title : "python intercepts,파이썬 intercepts"
     describe : "데이터 분석에 필요한 지식 python intercept" 
     categories : 
-        TECH   
+        Computer Science   
 
     tags :
         빅데이터

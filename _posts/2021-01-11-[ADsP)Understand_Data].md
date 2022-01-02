@@ -2,7 +2,7 @@
     title : "ADsP) 빅데이터 분석에서 데이터란 무엇인가?"
     describe : "ADsP) 빅데이터 분석에서 데이터란 무엇인가? 데이터의 특징과 데이터의 유형 DIKW 피라미드 등에 대한 설명"
     categories : 
-        TECH   
+        Computer Science   
 
     tags :
         빅데이터

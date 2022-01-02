@@ -3,7 +3,7 @@
 
     describe : "KDD , SEMMA , CRISP-DM" 
     categories : 
-        TECH   
+        Computer Science   
 
     tags :
         빅데이터
