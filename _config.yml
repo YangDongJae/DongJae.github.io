@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Low To Top"
 description              : "천방지축 어리둥절 빙글빙글 돌아가는 개발자 하루"
-url                      : "https://YangDongJae.github.io"
+url                      : "https://YangDongJae.github.io/index.html"
 baseurl                  : #
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : #"/assets/images/bio-photo-keyboard.jpg"
