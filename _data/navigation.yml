@@ -2,8 +2,8 @@
 main:
   - title : "AI"
     url: https://yangdongjae.github.io/categories/AI
-  - title: "Computer Science"
-    url: https://yangdongjae.github.io/categories/ComputerScience
+  - title: "Computer_Science"
+    url: https://yangdongjae.github.io/categories/Computer_Science
   - title: "Research Paper"
     url: https://yangdongjae.github.io/categories/ResearchPaper
   - title: "MIT Challenge"
