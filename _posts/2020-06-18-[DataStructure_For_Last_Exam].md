@@ -2,7 +2,7 @@
     title : "[자료구조] 기말고사 기록용"
 
     categories : 
-        Computer Science    
+        ComputerScience
 
     tags :
         자료구조

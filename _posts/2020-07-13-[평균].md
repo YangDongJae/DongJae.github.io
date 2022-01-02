@@ -3,7 +3,7 @@
 
     describe : "데이터 분석에 필요한 통계지식" 
     categories : 
-        Computer Science   
+        ComputerScience
 
     tags :
         빅데이터

@@ -2,7 +2,7 @@
     title : "[자료구조,Python] 파이썬으로 만들어보는 이진 검색 트리 Binary Search Tree"
     
     categories : 
-        Computer Science
+        ComputerScience
         
     description : "[자료구조,Python] 파이썬으로 구현하는 이진 검색 트리 Binary Search Tree 자료구조"
     

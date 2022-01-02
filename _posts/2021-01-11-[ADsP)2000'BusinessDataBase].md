@@ -2,7 +2,7 @@
     title : "ADsP) 분야별 데이터베이스의 발전과 분야별 데이터베이스의 종류[ERP, BI, CRM, RTE, EAI, EDW, KMS, RFID]"
     describe : "ADsP) ERP, BI, CRM, RTE, EAI, EDW, KMS, RFID란 무엇인가?"
     categories : 
-        Computer Science   
+        ComputerScience
 
     tags :
         빅데이터

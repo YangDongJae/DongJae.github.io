@@ -4,7 +4,7 @@
   describe : "벨만 기대 방정식 , 파이썬과 케라스로 배우는 강화학습"
 
   categories : 
-      Computer Science
+      ComputerScience
 
   toc : True
 

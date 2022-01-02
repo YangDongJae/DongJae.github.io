@@ -4,7 +4,7 @@
   describe : "강화학습 가치 이터레이션이란? Value Iteration"
 
   categories : 
-      Computer Science
+      ComputerScience
 
   toc : True
 

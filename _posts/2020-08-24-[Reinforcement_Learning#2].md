@@ -4,7 +4,7 @@
   describe : "강화학습 , MDP란? Markov Decesion Process , 파이썬과 케라스로 배우는 강화학습"
 
   categories : 
-      Computer Science
+      ComputerScience
 
   toc : True
 

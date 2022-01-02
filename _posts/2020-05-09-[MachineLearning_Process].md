@@ -4,7 +4,7 @@
     description : "데이터 사이언티스트들의 문제해결 과정"
     
     categories : 
-        Computer Science
+        ComputerScience
     toc : True
 
     toc_label : "목차"

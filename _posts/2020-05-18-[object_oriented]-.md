@@ -2,7 +2,7 @@
     title : "[SE] 소프트웨어 공학 객체지향분석" 
 
     categories : 
-        Computer Science
+        ComputerScience
     
     description : "객체지향분석, 계승 , 클래스, 객체 , 외연 , 내연"
 

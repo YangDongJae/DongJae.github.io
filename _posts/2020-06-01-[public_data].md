@@ -4,7 +4,7 @@
     description : "공공데이터 프로젝트 과정"
     
     categories : 
-        Computer Science
+        ComputerScience
         
     tags :
         데이터사이언스

@@ -2,7 +2,7 @@
     title : "보간법(interpolation)과 numpy interpolate 함수"
     describe : "데이터 분석에 필요한 지식 보간법 interpolate, interolate in numpy" 
     categories : 
-        Computer Science   
+        ComputerScience
 
     tags :
         빅데이터

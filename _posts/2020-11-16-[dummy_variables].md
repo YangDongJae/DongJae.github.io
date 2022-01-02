@@ -3,7 +3,7 @@
 
     describe : "데이터 분석에 필요한 지식 범주형 변수 인코딩 방법 Dummy Variable 과 one hot encoding의 차이점" 
     categories : 
-        Computer Science   
+        ComputerScience
 
     tags :
         빅데이터

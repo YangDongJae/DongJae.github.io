@@ -4,7 +4,7 @@
     description : "머신러닝 결정트리 러닝 알고리즘 , Decesion Tree , 엔트로피 , Entopy"
 
     categories : 
-        Computer Science
+        ComputerScience
 
     toc : True
 

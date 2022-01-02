@@ -2,7 +2,7 @@
     title : "ADsP) 데이터 베이스의 일반적 특징과 다양한 측면에서의 특징"
     describe : "ADsP) 데이터베이스 통합된 데이터, 저장된 데이터, 응용 데이터, 변화되는 데이터, 기계 가독성, 검색 가독성, 원격 조작성, 정보의 이용측면, 정보 관리측면, 정보 기술 발전 측면, 경제 산업 측면"
     categories : 
-        Computer Science   
+        ComputerScience
 
     tags :
         빅데이터

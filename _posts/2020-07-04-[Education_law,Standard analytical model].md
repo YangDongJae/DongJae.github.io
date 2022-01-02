@@ -2,7 +2,7 @@
     title : "Law & Standard Analysis Model"
 
     categories : 
-        Computer Science   
+        ComputerScience
 
     tags :
         빅데이터

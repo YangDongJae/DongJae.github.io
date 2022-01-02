@@ -4,7 +4,7 @@
   describe : "Epoch , Iteration , Dynamic Programming , 에포크 , 이터레션 , 다이나믹 프로그래밍이란?"
 
   categories : 
-      Computer Science
+      ComputerScience
 
   toc : True
 

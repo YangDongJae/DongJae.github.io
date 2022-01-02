@@ -2,7 +2,7 @@
     title : "2021년에 다시 되돌아보는 공공 빅데이터 청년 인턴십 후기"
 
     categories : 
-        Computer Science
+        ComputerScience
     
     description : "2021년에 다시 되돌아보는 공공 빅데이터 청년 인턴십 후기"
 

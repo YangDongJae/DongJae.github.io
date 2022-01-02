@@ -1,7 +1,7 @@
 ---
 title : 공대생이 공부하는 경영학 전략기획 방법Ⅱ - 전략기획팀구성 
 
-categories : Computer Science
+categories : ComputerScience
 
 description : 공대생이 공부하는 경영학 전략기획 방법Ⅱ 전략기획팀은 어떻게 구성하는가? 
 

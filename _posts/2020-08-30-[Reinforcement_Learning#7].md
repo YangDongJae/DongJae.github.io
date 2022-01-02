@@ -4,7 +4,7 @@
   describe : "강화학습 과 다이내믹 프로그래밍 , 어디까지?"
 
   categories : 
-      Computer Science
+      ComputerScience
 
   toc : True
 

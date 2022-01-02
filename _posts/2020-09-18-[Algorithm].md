@@ -4,7 +4,7 @@
   describe : "Python [알고리즘] List에서 중복되지않는 1개의 값 추출하기"
 
   categories : 
-      Computer Science
+      ComputerScience
 
   toc : True
 
