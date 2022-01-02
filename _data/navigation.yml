@@ -1,9 +1,25 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title : "LIFE"
+    url: https://yangdongjae.github.io/categories/LIFE
+  - title: "JOURNALISM"
+    url: https://yangdongjae.github.io/categories/JOURNALISM
+  - title: "BUSINESS"
+    url: https://yangdongjae.github.io/categories/BUSINESS
+  - title: "IT"
+    url: https://yangdongjae.github.io/categories/IT
+  - title: "TECH"
+    url: https://yangdongjae.github.io/categories/TECH
+  - title: "tags"
+    url: https://yangdongjae.github.io/tags
+  - title: "categories"
+    url: https://yangdongjae.github.io/categories  
+  - title: "About"
+    url: https://yangdongjae.github.io/about/
+  - title: "Home"
+    url: https://yangdongjae.github.io/
+
+  
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
