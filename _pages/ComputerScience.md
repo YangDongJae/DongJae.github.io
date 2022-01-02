@@ -1,6 +1,6 @@
 ---
  title: "Computer Science"
- permalink: /categories/ComputerSceince
+ permalink: /categories/ComputerScience
  layout: category
  author_profile: false
  taxonomy: Computer Science
