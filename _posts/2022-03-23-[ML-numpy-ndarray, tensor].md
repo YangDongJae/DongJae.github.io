@@ -1,7 +1,7 @@
 ---
 title : 밑바닥에서 시작하는 Numpy 이해 - Numpy 배열과 텐서
 
-categories : ComputerScience
+categories : DataScience
 
 description : import numpy as np만 하는 초심자도 이해하는 밑바닥 Numpy [Numpy 배열(ndarray)과 텐서(tensor)]
 
